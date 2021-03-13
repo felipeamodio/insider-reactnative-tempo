@@ -4,6 +4,10 @@ import Menu from '../../components/Menu';
 import Header from '../../components/Header';
 import Conditions from '../../components/Conditions';
 import Forecast from '../../components/Forecast';
+import * as Location from 'expo-location';
+
+
+
 
 const mylist = [
     {
